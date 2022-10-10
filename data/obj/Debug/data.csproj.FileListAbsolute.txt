@@ -1,0 +1,6 @@
+C:\dotnet\rainbowschool\data\bin\Debug\data.dll
+C:\dotnet\rainbowschool\data\bin\Debug\data.pdb
+C:\dotnet\rainbowschool\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\dotnet\rainbowschool\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\dotnet\rainbowschool\data\obj\Debug\data.dll
+C:\dotnet\rainbowschool\data\obj\Debug\data.pdb
